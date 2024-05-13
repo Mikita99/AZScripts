@@ -22,7 +22,7 @@ $form.Controls.Add($textBox)
 # Create button
 $button = New-Object System.Windows.Forms.Button
 $button.Location = New-Object System.Drawing.Point(10,70)
-$button.Size = New-Object System.Drawing.Size(100,30)
+$button.Size = New-Object System.Drawing.Size(200,30)
 $button.Text = "Stop Application"
 $button.Add_Click({
     $appName = $textBox.Text
