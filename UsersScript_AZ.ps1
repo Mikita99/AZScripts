@@ -14,3 +14,4 @@ for ($i = 1; $i -le 4; $i++) {
     
     Write-Host "User $i created successfully."
 }
+By Mikita Simkin @2024
