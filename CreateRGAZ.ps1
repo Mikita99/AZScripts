@@ -13,3 +13,4 @@ if ($existingResourceGroup -eq $null) {
 } else {
     Write-Output "Resource group '$resourceGroupName' already exists."
 }
+By Mikita Simkin @2024
