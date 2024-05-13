@@ -14,3 +14,4 @@ $vmName = "YourVMName"
 Start-AzVM -ResourceGroupName $resourceGroupName -Name $vmName
 
 Write-Output "Virtual machine '$vmName' in resource group '$resourceGroupName' is starting."
+By Mikita Simkin @2024
