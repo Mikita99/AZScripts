@@ -10,3 +10,4 @@ if ($confirmation -eq "Y" -or $confirmation -eq "y") {
 } else {
     Write-Output "Deletion aborted."
 }
+By Mikita Simkin @2024
