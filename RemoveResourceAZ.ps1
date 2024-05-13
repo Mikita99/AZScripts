@@ -11,3 +11,4 @@ foreach ($resource in $resources) {
 
 # Remove the resource group
 Remove-AzResourceGroup -Name $resourceGroup -Force -Confirm:$false
+By Mikita Simkin @2024
